@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @icugideon
-- 👀 I’m interested in AR/VR design
-- 🌱 I’m currently learning Blender and Product Management
-- 💞️ I’m looking to collaborate on awesome digital product projects
+- 👋 Hi, I’m Gideon
+- 👀 I’m interested in AI, UX, AR/VR design
+- 🌱 I’m currently building design tools for designers
+- 💞️ I’m looking to collaborate on AI, UX and creative projects.
 - 📫 How to reach me : mailto:icugideon@gmail.com
 
 <!---
