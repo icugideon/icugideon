@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Gideon
-- 👀 I’m interested in AI, UX, AR/VR design
-- 🌱 I’m currently building design tools for designers
-- 💞️ I’m looking to collaborate on AI, UX and creative projects.
-- 📫 How to reach me : mailto:icugideonse@gmail.com
+- 👋 Gideon here,
+- 🌱 I’m currently building and open to collaborate on AI, UX and creative projects.
+- 📫 Reach me : mailto:icugideonse@gmail.com
 
 <!---
 icugideon/icugideon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
